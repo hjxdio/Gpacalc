@@ -1,4 +1,4 @@
-// 类型定义
+
 export interface Subject {
   id: number
   name: string
@@ -19,7 +19,6 @@ export interface ExistingGPA {
   credits: number
 }
 
-// 辅助函数
 export const validateSubjectData = (subject: any): boolean => {
   return (
     typeof subject.id === 'number' &&
@@ -62,5 +61,4 @@ export const majors: Major[] = [
       { value: 'cs', label: '计算机科学与技术、计算机科学与技术实验班', file: 'cs.json' },
       { value: 'se', label: '软件工程', file: 'se.json' },
       { value: 'bxk', label: '全校必修课', file: 'bxk.json' },
-      // 可以继续添加其他专业
     ]
