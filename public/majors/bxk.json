@@ -1,0 +1,96 @@
+{
+  "subjects": [
+    {
+      "id": 6,
+      "name": "中国近现代史纲要",
+      "credit": 3,
+      "score": 0,
+      "semester": ""
+    },
+    {
+      "id": 9,
+      "name": "体育 - 1",
+      "credit": 1,
+      "score": 0,
+      "semester": ""
+    },
+    {
+      "id": 10,
+      "name": "大学英语（综合）",
+      "credit": 4,
+      "score": 0,
+      "semester": ""
+    },
+    {
+      "id": 59,
+      "name": "习近平新时代中国特色社会主义思想概论",
+      "credit": 3,
+      "score": 0,
+      "semester": ""
+    },
+    {
+      "id": 15,
+      "name": "思想道德与法治",
+      "credit": 3,
+      "score": 0,
+      "semester": ""
+    },
+    {
+      "id": 16,
+      "name": "体育 - 2",
+      "credit": 1,
+      "score": 0,
+      "semester": ""
+    },
+    {
+      "id": 17,
+      "name": "大学英语（高级）",
+      "credit": 4,
+      "score": 0,
+      "semester": ""
+    },
+    {
+      "id": 23,
+      "name": "军事理论",
+      "credit": 2,
+      "score": 0,
+      "semester": ""
+    },
+    {
+      "id": 24,
+      "name": "军事训练",
+      "credit": 2,
+      "score": 0,
+      "semester": ""
+    },
+    {
+      "id": 12,
+      "name": "马克思主义基本原理",
+      "credit": 3,
+      "score": 0,
+      "semester": ""
+    },
+    {
+      "id": 13,
+      "name": "毛泽东思想和中国特色社会 主义理论体系概论",
+      "credit": 3,
+      "score": 0,
+      "semester": ""
+    },
+    {
+      "id": 14,
+      "name": "体育 - 3",
+      "credit": 1,
+      "score": 0,
+      "semester": ""
+    },
+    {
+      "id": 15,
+      "name": "体育 - 4",
+      "credit": 1,
+      "score": 0,
+      "semester": ""
+    }
+  ],
+  "nextId": 16
+}

@@ -1,0 +1,383 @@
+{
+  "subjects": [
+    {
+      "id": 6,
+      "name": "中国近现代史纲要",
+      "credit": 3,
+      "score": 0,
+      "semester": "1"
+    },
+    {
+      "id": 9,
+      "name": "体育 - 1",
+      "credit": 1,
+      "score": 0,
+      "semester": "1"
+    },
+    {
+      "id": 10,
+      "name": "大学英语（综合）",
+      "credit": 4,
+      "score": 0,
+      "semester": "1"
+    },
+    {
+      "id": 11,
+      "name": "高等数学 (工)-1",
+      "credit": 5.5,
+      "score": 0,
+      "semester": "1"
+    },
+    {
+      "id": 12,
+      "name": "线性代数 (工)",
+      "credit": 3,
+      "score": 0,
+      "semester": "1"
+    },
+    {
+      "id": 13,
+      "name": "高级语言程序设计",
+      "credit": 3.5,
+      "score": 0,
+      "semester": "1"
+    },
+    {
+      "id": 14,
+      "name": "大学物理 Ⅰ-1",
+      "credit": 3.5,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 59,
+      "name": "习近平新时代中国特色社会主义思想概论",
+      "credit": 3,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 15,
+      "name": "思想道德与法治",
+      "credit": 3,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 16,
+      "name": "体育 - 2",
+      "credit": 1,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 17,
+      "name": "大学英语（高级）",
+      "credit": 4,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 18,
+      "name": "高等数学 (工)-2",
+      "credit": 5.5,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 20,
+      "name": "电路分析基础 - 1",
+      "credit": 2,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 22,
+      "name": "物理实验（工）-1",
+      "credit": 1,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 23,
+      "name": "军事理论",
+      "credit": 2,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 24,
+      "name": "军事训练",
+      "credit": 2,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 2,
+      "name": "高级语言程序设计课设",
+      "credit": 1.5,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 3,
+      "name": "工程图学基础与AutoCAD",
+      "credit": 2,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 25,
+      "name": "大学物理 Ⅰ-2",
+      "credit": 3.5,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 26,
+      "name": "马克思主义基本原理",
+      "credit": 3,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 27,
+      "name": "体育 - 3",
+      "credit": 1,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 28,
+      "name": "概率论与数理统计（工）",
+      "credit": 3,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 29,
+      "name": "复变函数与积分变换",
+      "credit": 2,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 30,
+      "name": "电路分析基础 Ⅱ",
+      "credit": 2,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 31,
+      "name": "模拟电子技术",
+      "credit": 4,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 70,
+      "name": "计算机软件基础",
+      "credit": 2,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 33,
+      "name": "物理实验（工）-2",
+      "credit": 1,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 34,
+      "name": "计算机软件基础实验",
+      "credit": 0.5,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 58,
+      "name": "模拟电子技术实验",
+      "credit": 1,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 35,
+      "name": "体育 - 4",
+      "credit": 1,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 36,
+      "name": "毛泽东思想和中国特色社会主义理论体系概论",
+      "credit": 3,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 75,
+      "name": "数字电路与 FPGA",
+      "credit": 3.5,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 74,
+      "name": "信号与系统 B",
+      "credit": 3.5,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 73,
+      "name": "随机信号分析 B",
+      "credit": 2,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 71,
+      "name": "电磁场与电磁波",
+      "credit": 3,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 72,
+      "name": "射频与通信电路",
+      "credit": 3.5,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 78,
+      "name": "机械工程训练 A",
+      "credit": 1,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 77,
+      "name": "数字电路与 FPGA 实验",
+      "credit": 1,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 76,
+      "name": "电子工程设计 Ⅰ-1",
+      "credit": 1.5,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 79,
+      "name": "认识实习",
+      "credit": 1,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 40,
+      "name": "现代微处理器原理及应用",
+      "credit": 3.5,
+      "score": 0,
+      "semester": "5"
+    },
+    {
+      "id": 41,
+      "name": "数字信号处理 B",
+      "credit": 3,
+      "score": 0,
+      "semester": "5"
+    },
+    {
+      "id": 42,
+      "name": "通信系统原理 B",
+      "credit": 3,
+      "score": 0,
+      "semester": "5"
+    },
+    {
+      "id": 4,
+      "name": "通信网络基础",
+      "credit": 2,
+      "score": 0,
+      "semester": "5"
+    },
+    {
+      "id": 5,
+      "name": "电子工程设计(通信)-2",
+      "credit": 2,
+      "score": 0,
+      "semester": "5"
+    },
+    {
+      "id": 6,
+      "name": "通信电路与系统实验",
+      "credit": 1,
+      "score": 0,
+      "semester": "5"
+    },
+    {
+      "id": 7,
+      "name": "自动控制原理Ⅱ",
+      "credit": 2,
+      "score": 0,
+      "semester": "5"
+    },
+    {
+      "id": 8,
+      "name": "人工智能理论与实践",
+      "credit": 2,
+      "score": 0,
+      "semester": "5"
+    },
+    {
+      "id": 51,
+      "name": "信息论基础",
+      "credit": 2,
+      "score": 0,
+      "semester": "6"
+    },
+    {
+      "id": 9,
+      "name": "无线通信",
+      "credit": 2,
+      "score": 0,
+      "semester": "6"
+    },
+    {
+      "id": 10,
+      "name": "通信工程应用设计",
+      "credit": 1,
+      "score": 0,
+      "semester": "6"
+    },
+    {
+      "id": 52,
+      "name": "工作实习",
+      "credit": 4,
+      "score": 0,
+      "semester": "6"
+    },
+    {
+      "id": 83,
+      "name": "通信系统创新应用实践 A",
+      "credit": 1,
+      "score": 0,
+      "semester": "7"
+    },
+    {
+      "id": 11,
+      "name": "毕业设计 ",
+      "credit": 8,
+      "score": 0,
+      "semester": "8"
+    }
+  ],
+  "nextId": 12
+}

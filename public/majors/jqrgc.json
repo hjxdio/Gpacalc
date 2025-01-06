@@ -1,0 +1,341 @@
+{
+  "subjects": [
+    {
+      "id": "0004312",
+      "name": "中国近现代史纲要",
+      "credit": 3,
+      "score": 0,
+      "semester": "1"
+    },
+    {
+      "id": 93,
+      "name": "高级语言程序设计",
+      "credit": 3.5,
+      "score": 0,
+      "semester": "1"
+    },
+    {
+      "id": "0000011",
+      "name": "体育-1",
+      "credit": 1,
+      "score": 0,
+      "semester": "1"
+    },
+    {
+      "id": "0007929",
+      "name": "大学英语（综合）",
+      "credit": 4,
+      "score": 0,
+      "semester": "1"
+    },
+    {
+      "id": "0001903",
+      "name": "高等数学(工)-1",
+      "credit": 5.5,
+      "score": 0,
+      "semester": "1"
+    },
+    {
+      "id": "0001908",
+      "name": "线性代数(工) ",
+      "credit": 3,
+      "score": 0,
+      "semester": "1"
+    },
+    {
+      "id": "0009438",
+      "name": "大学物理1-1",
+      "credit": 3.5,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": "00X012",
+      "name": "思想道德与法治",
+      "credit": 3,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": "0007907",
+      "name": "大学英语（高级）",
+      "credit": 4,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": "0009467",
+      "name": "习近平新时代中国特色社会主义思想概论",
+      "credit": 3,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 85,
+      "name": "体育-2",
+      "credit": 1,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 86,
+      "name": "高等数学(工)-1",
+      "credit": 5.5,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 88,
+      "name": "工程图学基础与AutoCAD",
+      "credit": 2,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 89,
+      "name": "高级语言程序设计课设",
+      "credit": 1.5,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 90,
+      "name": "物理实验（工）-1",
+      "credit": 1,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 87,
+      "name": "电路分析基础-1",
+      "credit": 2,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 95,
+      "name": "军事理论",
+      "credit": 2,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 94,
+      "name": "军事训练",
+      "credit": 2,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": "0000013",
+      "name": "体育-3",
+      "credit": 1,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": "0010089",
+      "name": "复变函数",
+      "credit": 2,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": "0010120",
+      "name": "离散数学",
+      "credit": 2,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": "0004361",
+      "name": "马克思主义基本原理",
+      "credit": 3,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 91,
+      "name": "大学物理Ⅰ-2",
+      "credit": 3.5,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 100,
+      "name": "电路分析基础-2",
+      "credit": 3,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 99,
+      "name": "数字电子技术",
+      "credit": 3.5,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 98,
+      "name": "模拟电子技术",
+      "credit": 3.5,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 103,
+      "name": "电子技术实验-1 ",
+      "credit": 1,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 102,
+      "name": "物理实验（工）-2",
+      "credit": 1,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 97,
+      "name": "机械工程训练A",
+      "credit": 1,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": "0006457",
+      "name": "毛泽东思想和中国特色社会主义理论体系概论",
+      "credit": 3,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 92,
+      "name": "概率论与数理统计(工)",
+      "credit": 3,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 96,
+      "name": "体育-4",
+      "credit": 1,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": "0010686",
+      "name": "微机原理与接口技术",
+      "credit": 3.5,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": "0000131",
+      "name": "自动控制原理",
+      "credit": 4,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": "0010102",
+      "name": "机器人基础原理",
+      "credit": 2.5,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 104,
+      "name": "电子技术实验2",
+      "credit": 1.5,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 106,
+      "name": "信号与系统Ⅲ",
+      "credit": 2,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 109,
+      "name": "认识实习",
+      "credit": 1,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 105,
+      "name": "数据结构与算法",
+      "credit": 2,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": "0005688",
+      "name": "电机驱动与运动控制",
+      "credit": 3.5,
+      "score": 0,
+      "semester": "5"
+    },
+    {
+      "id": "0010100",
+      "name": "机器人感知技术",
+      "credit": 2.5,
+      "score": 0,
+      "semester": "5"
+    },
+    {
+      "id": 107,
+      "name": "现代控制理论",
+      "credit": 2,
+      "score": 0,
+      "semester": "5"
+    },
+    {
+      "id": "0010071",
+      "name": "电机与运动控制实验",
+      "credit": 1,
+      "score": 0,
+      "semester": "5"
+    },
+    {
+      "id": "0008691",
+      "name": "机器人感知技术实验",
+      "credit": 1,
+      "score": 0,
+      "semester": "5"
+    },
+    {
+      "id": "0010750",
+      "name": "嵌入式系统综合实践",
+      "credit": 2,
+      "score": 0,
+      "semester": "5"
+    },
+    {
+      "id": "0010106",
+      "name": "机器人综合设计与实践",
+      "credit": 2,
+      "score": 0,
+      "semester": "6"
+    },
+    {
+      "id": 108,
+      "name": "工作实习",
+      "credit": 4,
+      "score": 0,
+      "semester": "6"
+    },
+    {
+      "id": "0008111",
+      "name": "毕业设计",
+      "credit": 8,
+      "score": 0,
+      "semester": "8"
+    }
+  ],
+  "nextId": 110
+}

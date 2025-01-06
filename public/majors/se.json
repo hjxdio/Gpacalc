@@ -1,0 +1,369 @@
+{
+  "subjects": [
+    {
+      "id": 6,
+      "name": "中国近现代史纲要",
+      "credit": 3,
+      "score": 0,
+      "semester": "1"
+    },
+    {
+      "id": 9,
+      "name": "体育-1",
+      "credit": 1,
+      "score": 0,
+      "semester": "1"
+    },
+    {
+      "id": 10,
+      "name": "大学英语（综合）",
+      "credit": 4,
+      "score": 0,
+      "semester": "1"
+    },
+    {
+      "id": 11,
+      "name": "高等数学(工)-1",
+      "credit": 5.5,
+      "score": 0,
+      "semester": "1"
+    },
+    {
+      "id": 12,
+      "name": "线性代数(工) ",
+      "credit": 3,
+      "score": 0,
+      "semester": "1"
+    },
+    {
+      "id": 13,
+      "name": "高级语言程序设计 ",
+      "credit": 3.5,
+      "score": 0,
+      "semester": "1"
+    },
+    {
+      "id": 14,
+      "name": "大学物理Ⅰ-1",
+      "credit": 3.5,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 59,
+      "name": "习近平新时代中国特色社会 主义思想概论",
+      "credit": 3,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 15,
+      "name": "思想道德与法治",
+      "credit": 3,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 16,
+      "name": "体育-2",
+      "credit": 1,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 17,
+      "name": "大学英语（高级）",
+      "credit": 4,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 18,
+      "name": "高等数学(工)-2",
+      "credit": 5.5,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 20,
+      "name": "电路分析基础-1",
+      "credit": 2,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 21,
+      "name": "高级语言程序设计课设",
+      "credit": 1.5,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 22,
+      "name": "物理实验（工）-1",
+      "credit": 1,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 23,
+      "name": "军事理论",
+      "credit": 2,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 24,
+      "name": "军事训练",
+      "credit": 2,
+      "score": 0,
+      "semester": "2"
+    },
+    {
+      "id": 25,
+      "name": "大学物理Ⅰ-2",
+      "credit": 3.5,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 26,
+      "name": "毛泽东思想和中国特色社会主义理 论体系概论",
+      "credit": 3,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 27,
+      "name": "体育-3",
+      "credit": 1,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 28,
+      "name": "概率论与数理统计（工）",
+      "credit": 3,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 29,
+      "name": "面向对象程序设计(C++) ",
+      "credit": 2,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 30,
+      "name": "离散数学",
+      "credit": 3,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 31,
+      "name": "数字逻辑",
+      "credit": 2,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 32,
+      "name": "机械工程训练A",
+      "credit": 1,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 33,
+      "name": "物理实验（工）-2 ",
+      "credit": 1,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 34,
+      "name": "数字逻辑实验",
+      "credit": 1,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 58,
+      "name": "面向对象程序设计(C++)课设",
+      "credit": 1,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 60,
+      "name": "认识实习",
+      "credit": 1,
+      "score": 0,
+      "semester": "3"
+    },
+    {
+      "id": 35,
+      "name": "体育-4",
+      "credit": 1,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 36,
+      "name": "马克思主义基本原理",
+      "credit": 3,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 37,
+      "name": "数据结构与算法",
+      "credit": 3.5,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 38,
+      "name": "软件工程导论（双语）",
+      "credit": 2,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 39,
+      "name": "计算机组成原理",
+      "credit": 3,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 48,
+      "name": "数据库原理Ⅰ",
+      "credit": 3,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 61,
+      "name": "数据结构与算法课设",
+      "credit": 2,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 62,
+      "name": "移动软件开发",
+      "credit": 2,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 63,
+      "name": "数据库应用实验",
+      "credit": 1,
+      "score": 0,
+      "semester": "4"
+    },
+    {
+      "id": 40,
+      "name": "操作系统原理",
+      "credit": 3,
+      "score": 0,
+      "semester": "5"
+    },
+    {
+      "id": 41,
+      "name": "软件需求分析与建模",
+      "credit": 2,
+      "score": 0,
+      "semester": "5"
+    },
+    {
+      "id": 42,
+      "name": "计算机网络（双语）",
+      "credit": 2,
+      "score": 0,
+      "semester": "5"
+    },
+    {
+      "id": 43,
+      "name": "计算机网络实验",
+      "credit": 1,
+      "score": 0,
+      "semester": "5"
+    },
+    {
+      "id": 44,
+      "name": "开源软件创意设计与开发 实践",
+      "credit": 1,
+      "score": 0,
+      "semester": "5"
+    },
+    {
+      "id": 51,
+      "name": "软件设计与体系结构（双语） ",
+      "credit": 2,
+      "score": 0,
+      "semester": "6"
+    },
+    {
+      "id": 68,
+      "name": "Web开发实践",
+      "credit": 1,
+      "score": 0,
+      "semester": "6"
+    },
+    {
+      "id": 69,
+      "name": "软件开发综合实践",
+      "credit": 3,
+      "score": 0,
+      "semester": "6"
+    },
+    {
+      "id": 67,
+      "name": "网络通信程序设计",
+      "credit": 1,
+      "score": 0,
+      "semester": "6"
+    },
+    {
+      "id": 66,
+      "name": "基于FPGA的数字电路设计",
+      "credit": 1,
+      "score": 0,
+      "semester": "6"
+    },
+    {
+      "id": 65,
+      "name": "软件过程与项目管理",
+      "credit": 2,
+      "score": 0,
+      "semester": "6"
+    },
+    {
+      "id": 64,
+      "name": "软件测试与质量保证",
+      "credit": 2,
+      "score": 0,
+      "semester": "6"
+    },
+    {
+      "id": 52,
+      "name": "工作实习 ",
+      "credit": 4,
+      "score": 0,
+      "semester": "7"
+    },
+    {
+      "id": 53,
+      "name": "毕业设计(论文)",
+      "credit": 8,
+      "score": 0,
+      "semester": "8"
+    }
+  ],
+  "nextId": 70
+}
