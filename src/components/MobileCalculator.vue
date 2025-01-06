@@ -621,7 +621,6 @@ const getDividerText = (index: number) => {
   font-size: 0.9rem;
 }
 
-/* 确保输入框宽度合适 */
 .existing-gpa-form :deep(.el-input-number) {
   width: 120px;
 }
